@@ -14,7 +14,7 @@ export default function NavBar() {
   return (
     <Navbar>
       <NavbarBrand>
-        <p className="font-bold text-inherit">ACME</p>
+        <p className="font-bold text-inherit">Calulater App</p>
       </NavbarBrand>
       <NavbarContent className="hidden gap-4 sm:flex" justify="center">
         <NavbarItem>
